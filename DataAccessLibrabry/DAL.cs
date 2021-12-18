@@ -374,8 +374,8 @@ namespace DataAccessLibrabry
         }
         public void SendEmail_CompleteDrying(string Email, string Fname)
         {
-            var fromAddress = new MailAddress("jadhavvivek107@gmail.com");
-            var fromPassword = "VJsweetdevil@1993";
+            var fromAddress = new MailAddress("smartwasherdryer@gmail.com");
+            var fromPassword = "SMART@wd@14";
             var toAddress = new MailAddress(Email);
             
 
